@@ -38,7 +38,7 @@ The dataset was preprocessed and analyzed to prepare it for clustering.
 
 2. **Finding the Optimal Number of Clusters**:
    - Used the **Elbow Method** to identify the optimum number of clusters.
-     ![elbow point graph](https://github.com/user-attachments/assets/948b72a3-b5f8-4fee-a12e-6835ddd4ea3c)
+![elbow point graph](https://github.com/user-attachments/assets/948b72a3-b5f8-4fee-a12e-6835ddd4ea3c)
    - Plotted the Within-Cluster Sum of Squares (WCSS) against the number of clusters to find the "elbow point."
 
 3. **K-Means Clustering**:
@@ -47,7 +47,7 @@ The dataset was preprocessed and analyzed to prepare it for clustering.
 
 4. **Visualization**:
    - Plotted clusters along with centroids to illustrate customer groups.
-     ![coustmer groups](https://github.com/user-attachments/assets/f4acf4d9-2618-4951-acb6-af0b0c890e2f)
+![coustmer groups](https://github.com/user-attachments/assets/f4acf4d9-2618-4951-acb6-af0b0c890e2f)
 
 
 ---
