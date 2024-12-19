@@ -2,6 +2,9 @@
 
 This project applies K-Means Clustering to perform customer segmentation based on annual income and spending score (1-100). The objective is to group customers into five distinct categories to better understand their behaviors and characteristics. 
 
+![Screenshot 2024-12-19 203600](https://github.com/user-attachments/assets/61710f18-458f-4329-b490-c36dcff018ac)
+
+
 ## Table of Contents
 1. [Objective](#objective)
 2. [Dataset](#dataset)
